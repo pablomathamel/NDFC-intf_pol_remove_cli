@@ -1,6 +1,6 @@
 # NDFC interface policy bulk modifier
 
-The goal of this Python script is to alleviate the process of doing a bulk modification of the freeform config NDFC access and trunk interface policies (based on "int_trunk_host" and "int_access_host" templates)
+The goal of this Python script is to alleviate the process of doing a bulk modification of the freeform config in NDFC access and trunk interface policies (based on "int_trunk_host" and "int_access_host" templates)
 
 How to use: 
 
