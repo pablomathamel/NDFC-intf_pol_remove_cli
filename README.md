@@ -6,3 +6,6 @@ How to use:
 
  - Before execution make sure to modify the variables at the beggining of the script, to match your specific environment.
  - Run "python3 script.py" from a computer with reachability to Nexus Dashboard.
+
+
+Note:  This script can also be used as a workaround in case of hitting [CSCwe98453](https://bst.cisco.com/bugsearch/bug/CSCwe98453)
